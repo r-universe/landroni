@@ -8,3 +8,8 @@
 	url = https://github.com/landroni/rcmdrplugin.export
 	shallow = true
 	registered = true
+[submodule "RcmdrPlugin.sos"]
+	path = RcmdrPlugin.sos
+	url = https://github.com/cran/RcmdrPlugin.sos
+	shallow = true
+	registered = true
